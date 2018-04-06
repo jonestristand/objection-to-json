@@ -1,6 +1,6 @@
 {
   "name": "objection-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to map Objection.js result models to JSON-able objects according to a provided schema",
   "main": "index.js",
   "scripts": {
