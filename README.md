@@ -4,6 +4,7 @@
 
 [![NPM Version][npm-image]][npm-url]
 [![Linux Build][travis-image]][travis-url]
+[![Coverage][coveralls-image]][coveralls-url]
 
 ## Install
 
@@ -77,4 +78,4 @@ resultJson === [
 [travis-image]: https://img.shields.io/travis/jonestristand/objection-to-json/master.svg
 [travis-url]: https://travis-ci.org/jonestristand/objection-to-json
 [coveralls-image]: https://img.shields.io/coveralls/jonestristand/objection-to-json/master.svg
-[coveralls-url]: https://coveralls.io/r/jonestristand/objection-to-json?branch=master
+[coveralls-url]: https://coveralls.io/github/jonestristand/objection-to-json
